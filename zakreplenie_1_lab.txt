@@ -1,0 +1,17 @@
+color 4
+git confit --local user.name
+git config --local user.name
+git config --local user.name "Whoami-qq"
+git clone https://github.com/Whoami-qq/qqall.git
+dir qqall
+cd qqall
+copy con helloworld.txt
+qqallfr13nds
+
+git config --local user.name "Whoami-qq"
+git config --local user.email "capslock13777@gmail.com"
+git add.
+git add .
+git commit -m "znakomstvo"
+git push
+doskey /history > zakreplenie_1_lab.txt
